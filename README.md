@@ -62,9 +62,7 @@ Cada proyecto incluye una breve descripción de su propósito y tecnologías uti
 ---
 
 ## 🌐 Contacto
-<p>
-<a href="<h1 align="center">Keitonaso</h1>
-<p align="center">
+
 Estudiante de Ingeniería de Sistemas · Desarrollo de Software · Python & Web
 </p>
 
